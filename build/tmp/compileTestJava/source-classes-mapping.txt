@@ -1,0 +1,4 @@
+com/gradle/tutorial/FizzBuzzprocessorTest.java
+ com.gradle.tutorial.FizzBuzzprocessorTest
+PrimeNumberCheckerTest.java
+ PrimeNumberCheckerTest
